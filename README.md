@@ -47,15 +47,15 @@ Keep updating!!!
 
 ## video-based methods
 
-2019		Neuro-inspired eye tracking with eye movement dynamics				
-2019		Realtime and accurate 3d eye gaze capture with dcnn-based iris and pupil segmentation				
-2019		Learning a 3d gaze estimator with improved itracker combined with bidirectional lstm				
-2018		Recurrent cnn for 3d gaze estimation using appearance and shape cues				
-2019	Gaze360	Gaze360: Physically unconstrained gaze estimation in the wild	paper	code	code2	project
-2020		Towards end-to-end video-based eye-tracking	paper	code		
-2022	Puregaze	Puregaze: Purifying gaze feature for generalizable gaze estimation	paper	code		
-2022	HAZE-Net	HAZE-Net: High-Frequency Attentive Super-Resolved Gaze Estimation in Low-Resolution Face Images	paper	code		
-2022	LatentGaze	LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation	paper	code		
+* 2019		Neuro-inspired eye tracking with eye movement dynamics	[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Neuro-Inspired_Eye_Tracking_With_Eye_Movement_Dynamics_CVPR_2019_paper.html)
+* 2019		Realtime and accurate 3d eye gaze capture with dcnn-based iris and pupil segmentation	[[paper]](https://ieeexplore.ieee.org/abstract/document/8818661)
+* 2019		Learning a 3d gaze estimator with improved itracker combined with bidirectional lstm  [[paper]](https://ieeexplore.ieee.org/abstract/document/8784770)				
+* 2018		Recurrent cnn for 3d gaze estimation using appearance and shape cues  [[paper]](Recurrent cnn for 3d gaze estimation using appearance and shape cues)		
+* 2019	[Gaze360]	Gaze360: Physically unconstrained gaze estimation in the wild	[[paper]](http://gaze360.csail.mit.edu/iccv2019_gaze360.pdf),	[[code]](https://github.com/Erkil1452/gaze360),	[[code2]](https://github.com/erkil1452/gaze360/tree/master/code),	[[project]](http://gaze360.csail.mit.edu/)
+* 2020		Towards end-to-end video-based eye-tracking	[[paper]](https://arxiv.org/abs/2007.13120),	[[code]](https://github.com/swook/EVE)		
+* 2022	[Puregaze]	Puregaze: Purifying gaze feature for generalizable gaze estimation	[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/19921),	[[code]](https://github.com/yihuacheng/PureGaze)	
+* 2022	[HAZE-Net]	HAZE-Net: High-Frequency Attentive Super-Resolved Gaze Estimation in Low-Resolution Face Images	[[paper]](https://arxiv.org/abs/2209.10167),	[[code]](https://github.com/dbseorms16/haze_net)		
+* 2022	[LatentGaze]	LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation	[[paper]](https://arxiv.org/abs/2209.10171),	[[code]](https://github.com/leeisack/latentgaze)		
 
 
 
