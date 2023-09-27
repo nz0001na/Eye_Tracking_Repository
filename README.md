@@ -66,5 +66,7 @@ Keep updating!!!
 * 2022	[HAZE-Net]	HAZE-Net: High-Frequency Attentive Super-Resolved Gaze Estimation in Low-Resolution Face Images	[[paper]](https://arxiv.org/abs/2209.10167),	[[code]](https://github.com/dbseorms16/haze_net)		
 * 2022	[LatentGaze]	LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation	[[paper]](https://arxiv.org/abs/2209.10171),	[[code]](https://github.com/leeisack/latentgaze)		
 
-
+# Other codes
+* https://github.com/antoinelame/GazeTracking
+* https://github.com/iitmcvg/eye-gaze
 
