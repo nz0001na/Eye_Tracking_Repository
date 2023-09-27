@@ -34,7 +34,7 @@ Keep updating!!!
 * 2022		Learning-by-Novel-View-Synthesis for Full-Face Appearance-based 3D Gaze Estimation	[[paper]](https://arxiv.org/abs/2201.07927)		
 * 2021		High-Accuracy Gaze Estimation for Interpolation-Based Eye-Tracking Methods	[[paper]](https://www.mdpi.com/2411-5150/5/3/41)	
 * 2021		Real-Time Precise Human-Computer Interaction System Based on Gaze Estimation and Tracking	[[paper]](https://www.hindawi.com/journals/wcmc/2021/8213946/)
-* 2021		Effect Of Personalized Calibration On Gaze Estimation Using Deep-Learning			
+* 2021		Effect Of Personalized Calibration On Gaze Estimation Using Deep-Learning	 [[paper]](https://arxiv.org/abs/2109.12801)
 * 2021		Weakly-Supervised Physically Unconstrained Gaze Estimation	[[paper]](https://arxiv.org/pdf/2105.09803.pdf),	[[code]](https://github.com/NVlabs/weakly-supervised-gaze)
 * 2021		Gaze Estimation with an Ensemble of Four Architectures	[[paper]](https://arxiv.org/abs/2107.01980)
 * 2020		Unsupervised Representation Learning for Gaze Estimation	[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Unsupervised_Representation_Learning_for_Gaze_Estimation_CVPR_2020_paper.html)
@@ -47,6 +47,15 @@ Keep updating!!!
 
 ## video-based methods
 
+2019		Neuro-inspired eye tracking with eye movement dynamics				
+2019		Realtime and accurate 3d eye gaze capture with dcnn-based iris and pupil segmentation				
+2019		Learning a 3d gaze estimator with improved itracker combined with bidirectional lstm				
+2018		Recurrent cnn for 3d gaze estimation using appearance and shape cues				
+2019	Gaze360	Gaze360: Physically unconstrained gaze estimation in the wild	paper	code	code2	project
+2020		Towards end-to-end video-based eye-tracking	paper	code		
+2022	Puregaze	Puregaze: Purifying gaze feature for generalizable gaze estimation	paper	code		
+2022	HAZE-Net	HAZE-Net: High-Frequency Attentive Super-Resolved Gaze Estimation in Low-Resolution Face Images	paper	code		
+2022	LatentGaze	LatentGaze: Cross-Domain Gaze Estimation through Gaze-Aware Analytic Latent Code Manipulation	paper	code		
 
 
 
