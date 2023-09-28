@@ -15,7 +15,7 @@ Keep updating!!!
   [[project]](http://phi-ai.buaa.edu.cn/Gazehub/), [[paper]](http://phi-ai.buaa.edu.cn/publications/index.htm)
 
 # Databases
-## Image-based:
+## Image-based database:
 * 2015	MPIIGaze		[[paper]](https://paperswithcode.com/paper/appearance-based-gaze-estimation-in-the-wild),	[[project]](https://paperswithcode.com/dataset/mpiigaze)
 * 2016	GazeCapture		[[paper]](https://paperswithcode.com/paper/eye-tracking-for-everyone),	[[project]](https://paperswithcode.com/dataset/gazecapture)
 * 2017	MPIIFaceGaze	[[project]](https://www.perceptualui.org/research/datasets/MPIIFaceGaze/)	
@@ -23,7 +23,7 @@ Keep updating!!!
 * 2018	RT-GENE		[[paper]](https://paperswithcode.com/paper/rt-gene-real-time-eye-gaze-estimation-in),	[[project]](https://paperswithcode.com/dataset/rt-gene)
 * 2019	Gaze360		[[paper]](https://paperswithcode.com/paper/gaze360-physically-unconstrained-gaze),	[[project]](https://paperswithcode.com/dataset/gaze360)
 * 2020	ETH-XGaze		[[paper]](https://paperswithcode.com/paper/eth-xgaze-a-large-scale-dataset-for-gaze),	[[project]](https://paperswithcode.com/dataset/eth-xgaze)
-## Video-based:
+## Video-based database:
 * 2014	EYEDIAP		[[paper]](https://dl.acm.org/doi/10.1145/2578153.2578190),	[[project]](https://paperswithcode.com/dataset/eyediap)
 * 2017	TabletGaze [[paper]](https://arxiv.org/abs/1508.01244), [[project]](https://sh.rice.edu/cognitive-engagement/tabletgaze/)
 * 2020	EVE		[[paper]](https://paperswithcode.com/paper/towards-end-to-end-video-based-eye-tracking),	[[project]](https://paperswithcode.com/dataset/eve)
