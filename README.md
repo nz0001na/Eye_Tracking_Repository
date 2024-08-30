@@ -121,16 +121,17 @@ Keep updating!!!
 * 2021	CVPR	Weakly-Supervised Physically Unconstrained Gaze Estimation		[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Kothari_Weakly-Supervised_Physically_Unconstrained_Gaze_Estimation_CVPR_2021_paper.html),	[[code]](https://github.com/NVlabs/weakly-supervised-gaze),	[[arXiv]](https://arxiv.org/abs/2105.09803), [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Kothari_Weakly-Supervised_Physically_Unconstrained_CVPR_2021_supplemental.pdf)
 * 2021	CVPR	Goal-Oriented Gaze Estimation for Zero-Shot Learning	[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Goal-Oriented_Gaze_Estimation_for_Zero-Shot_Learning_CVPR_2021_paper.html),	[[code]](https://github.com/francescotonini/human-gaze-target-detection-transformer),	[[arXiv]](https://arxiv.org/abs/2203.10433)
 * 2021	CVPR	Glance and Gaze: Inferring Action-Aware Points for One-Stage Human-Object Interaction Detection	[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Zhong_Glance_and_Gaze_Inferring_Action-Aware_Points_for_One-Stage_Human-Object_Interaction_CVPR_2021_paper.html),	[[code]](https://github.com/SherlockHolmes221/GGNet),	[[arXiv]](https://arxiv.org/abs/2104.05269), [[supp]](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhong_Glance_and_Gaze_CVPR_2021_supplemental.pdf)
+* 2021	CVPR	Dual Attention Guided Gaze Target Detection in the Wild	 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Fang_Dual_Attention_Guided_Gaze_Target_Detection_in_the_Wild_CVPR_2021_paper.html)
+* 2022	OWLET: An automated, open-source method for infant gaze tracking using smartphone and webcam recordings	[[paper]](https://www.researchgate.net/publication/363358846_OWLET_An_automated_open-source_method_for_infant_gaze_tracking_using_smartphone_and_webcam_recordings),  [[code]](https://github.com/denisemw/OWLET),  [[info]](https://britobabylab.com/wp-content/uploads/2023/01/OWLET-1.pdf),  [[project]](https://www.brainnexus.com/projects-2/owlet%3A-a-tool-for-infant-eye-tracking-via-zoom-recordings)
+* 2023	iCatcher+: Robust and Automated Annotation of Infants’ and Young Children’s Gaze Behavior From Videos Collected in Laboratory, Field, and Online Studies  [[paper]](https://www.researchgate.net/publication/370134556_iCatcher_Robust_and_Automated_Annotation_of_Infants'_and_Young_Children's_Gaze_Behavior_From_Videos_Collected_in_Laboratory_Field_and_Online_Studies)
+	
+* 2022		Analysis and novel methods for capture of normative eye-tracking data in 2.5-month old infants	[[paper]](https://www.researchgate.net/publication/366161948_Analysis_and_novel_methods_for_capture_of_normative_eye-tracking_data_in_25-month_old_infants)  
+* 2023		Deep-SAGA: a deep-learning-based system for automatic gaze annotation from eye-tracking data	[[paper]](https://www.researchgate.net/publication/361019174_Deep-SAGA_a_deep-learning-based_system_for_automatic_gaze_annotation_from_eye-tracking_data#fullTextFileContent),	[[code]](https://github.com/OliDeane/Deep_SAGA) 
+* 2023		Real-time camera-based eye gaze tracking using convolutional neural network: a case study on social media website [[paper]](https://www.researchgate.net/publication/359608492_Real-time_camera-based_eye_gaze_tracking_using_convolutional_neural_network_a_case_study_on_social_media_website)
 
-* 
-2021	CVPR	Dual Attention Guided Gaze Target Detection in the Wild				paper			
-2022		OWLET: An automated, open-source method for infant gaze tracking using smartphone and webcam recordings				paper	code	info	project
-2023		iCatcher+: Robust and Automated Annotation of Infants’ and Young Children’s Gaze Behavior From Videos Collected in Laboratory, Field, and Online Studies				paper			
-2022		Analysis and novel methods for capture of normative eye-tracking data in 2.5-month old infants				paper			
-2023		Deep-SAGA: a deep-learning-based system for automatic gaze annotation from eye-tracking data				paper	code		
-2023		A robust, real-time camera-based eye gaze tracking system to analyze users’ visual attention using deep learning				paper			
-		Real-time camera-based eye gaze tracking using convolutional neural network: a case study on social media website				paper			
-2021		A Deep Learning-Based Approach to Video-Based Eye Tracking for Human Psychophysics				paper			
+
+ 
+* 2021		A Deep Learning-Based Approach to Video-Based Eye Tracking for Human Psychophysics				paper			
 2023		Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood				paper		paper	
 2023		Webcam eye tracking close to laboratory standards: Comparing a new webcam-based system and the EyeLink 1000				paper			
 2021	ICCV	Cross-Encoder for Unsupervised Gaze Representation Learning				paper	code		
