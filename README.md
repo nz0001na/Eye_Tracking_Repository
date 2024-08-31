@@ -128,57 +128,45 @@ Keep updating!!!
 * 2022		Analysis and novel methods for capture of normative eye-tracking data in 2.5-month old infants	[[paper]](https://www.researchgate.net/publication/366161948_Analysis_and_novel_methods_for_capture_of_normative_eye-tracking_data_in_25-month_old_infants)  
 * 2023		Deep-SAGA: a deep-learning-based system for automatic gaze annotation from eye-tracking data	[[paper]](https://www.researchgate.net/publication/361019174_Deep-SAGA_a_deep-learning-based_system_for_automatic_gaze_annotation_from_eye-tracking_data#fullTextFileContent),	[[code]](https://github.com/OliDeane/Deep_SAGA) 
 * 2023		Real-time camera-based eye gaze tracking using convolutional neural network: a case study on social media website [[paper]](https://www.researchgate.net/publication/359608492_Real-time_camera-based_eye_gaze_tracking_using_convolutional_neural_network_a_case_study_on_social_media_website)
-
-
  
-* 2021		A Deep Learning-Based Approach to Video-Based Eye Tracking for Human Psychophysics				paper			
-2023		Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood				paper		paper	
-2023		Webcam eye tracking close to laboratory standards: Comparing a new webcam-based system and the EyeLink 1000				paper			
-2021	ICCV	Cross-Encoder for Unsupervised Gaze Representation Learning				paper	code		
-2022	CVPRW	Unsupervised Multi-View Gaze Representation Learning				paper	code		
-		Vulnerability of Appearance-based Gaze Estimation				paper			
-2021	ICCV	Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation	pre-trained	Pytorch	CNN	paper	code		
-2021	CVPRW	Goo: A Dataset for Gaze Object Prediction in Retail Environments				paper	code		
-2022	CVPRW	A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings	pre-trained			paper	code		
-2020	CVPR	Detecting Attended Visual Targets in Video	pre-trained	pytorch	CNN	paper	code	arXiv	
-2020	WACV	Offset calibration for Appearance-based gaze estimation via gaze decomposition		tensorflow		paper	code	arXiv	
-2021		Bayesian Eye Tracking				paper			
-2021	NeurIPS	Glance-and-Gaze Vision Transformer				paper	code		project
-2020	NeurIPS 	Self-supervised learning through the eyes of a child.	pre-trained	pytorch	CNN	paper	code		project
-2020	ECCV	ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation.				paper			
-2020	ECCV	Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System. 				paper			project
-2022	NeurIPS 	Contrastive Representation Learning for Gaze Estimation	pre-trained	pytorch		paper	code		
-2020	ACCV	Domain Adaptation Gaze Estimation by Embedding with Prediction Consistency				paper			
-2020	WACV	Gaze Estimation for Assisted Living Environments				paper	code		project
-2020	WACV	Learning to Detect Head Movement in Unconstrained Remote Gaze Estimation in the Wild				paper		paper	
-2020	BMVC	Learning-based Region Selection for End-to-End Gaze Estimation				paper			
-2021	MDPI	Low Cost Gaze Estimation: Knowledge-Based Solutions.				paper			
-2019	ICCV	FAZE:Few-Shot Adaptive Gaze Estimation	pre-trained	pytorch		paper	code		
-2020	IEEE TIP	Gaze Estimation by Exploring Two-Eye Asymmetry							
-2023	ICCV	DVGaze: Dual-View Gaze Estimation			transformer	paper	code		
-2019	CVPR	Mixed Effects Neural Networks (MeNets) with Applications to Gaze Estimation				paper	code		
-2017	ACM	InvisibleEye: Mobile Eye Tracking Using Multiple Low-Resolution Cameras and Learning-Based Gaze Estimation				paper			
-2016		A low-cost and calibration-free gaze estimator for soft biometrics: An explorative study				paper			
-2024		Model-Based 3D Gaze Estimation Using a TOF Camera				paper			
-2019	AAAI	RGBD Based Gaze Estimation via Multi-task CNN				paper	code		
-2018	TNNLS	Multi-view Multi-task Gaze Estimation with Deep Convolutional Neural Networks		pytorch	CNN	paper	code		
-2016		Fast and Accurate Algorithm for Eye Localization for Gaze Tracking in Low Resolution Images				paper			project
-2017	IEEE TIP	Appearance-Based Gaze Estimation via Uncalibrated Gaze Pattern Recovery				paper			
-2022	ACCV	‘Labelling the Gaps’: A Weakly Supervised Automatic Eye Gaze Estimation				paper	code	paper	
-2021	CVPRW	Appearance-based Gaze Estimation using Attention and Difference Mechanism				paper			
+* 2021		A Deep Learning-Based Approach to Video-Based Eye Tracking for Human Psychophysics   [[paper]](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.685830/full)
+* 2023		Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood	[[paper]](https://www.researchgate.net/publication/374821818_Validation_of_an_open_source_remote_web-based_eye-tracking_method_WebGazer_for_research_in_early_childhood),  [[paper]](https://osf.io/preprints/psyarxiv/7924h)
+* 2023		Webcam eye tracking close to laboratory standards: Comparing a new webcam-based system and the EyeLink 1000	[[paper]](https://www.researchgate.net/publication/374659238_Webcam_eye_tracking_close_to_laboratory_standards_Comparing_a_new_webcam-based_system_and_the_EyeLink_1000)
+* 2021	ICCV	Cross-Encoder for Unsupervised Gaze Representation Learning   [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Cross-Encoder_for_Unsupervised_Gaze_Representation_Learning_ICCV_2021_paper.pdf),	[[code]](https://github.com/sunyunjia96/Cross-Encoder), [[poster]](https://dualplus.github.io/publication/2021-iccv-crossencoder/poster.pdf)
+* 2022	CVPRW	Unsupervised Multi-View Gaze Representation Learning	[[paper]](https://openaccess.thecvf.com/content/CVPR2022W/GAZE/papers/Gideon_Unsupervised_Multi-View_Gaze_Representation_Learning_CVPRW_2022_paper.pdf),  [[code]](https://github.com/ToyotaResearchInstitute/UnsupervisedGaze)
+* Vulnerability of Appearance-based Gaze Estimation	[[paper]](https://arxiv.org/pdf/2103.13134)
+* 2021	ICCV	Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Generalizing_Gaze_Estimation_With_Outlier-Guided_Collaborative_Adaptation_ICCV_2021_paper.pdf),	[[code]](https://github.com/DreamtaleCore/PnP-GA)
 
 
-
-
-
-
-
-
-
-
-
-
-
+* 2021	CVPRW	Goo: A Dataset for Gaze Object Prediction in Retail Environments  [[paper]](https://arxiv.org/pdf/2105.10793),	[[code]](https://github.com/upeee/GOO-GAZE2021)  
+* 2022	CVPRW	A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings	[[paper]](https://openaccess.thecvf.com/content/CVPR2022W/GAZE/papers/Gupta_A_Modular_Multimodal_Architecture_for_Gaze_Target_Prediction_Application_to_CVPRW_2022_paper.pdf),	[[code]](https://github.com/idiap/multimodal_gaze_target_prediction)
+* 2020	CVPR	Detecting Attended Visual Targets in Video  [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chong_Detecting_Attended_Visual_Targets_in_Video_CVPR_2020_paper.pdf),  [[code]](https://github.com/ejcgt/attention-target-detection),	[[arXiv]](https://arxiv.org/abs/2003.02501)
+* 2020	WACV	Offset calibration for Appearance-based gaze estimation via gaze decomposition	[[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Offset_Calibration_for_Appearance-Based_Gaze_Estimation_via_Gaze_Decomposition_WACV_2020_paper.pdf), [[code]](https://github.com/czk32611/Gaze-Decomposition),  [[arXiv]](https://arxiv.org/abs/1905.04451)		
+* 2021		Bayesian Eye Tracking	[[paper]](https://arxiv.org/pdf/2106.13387)
+* 2021	NeurIPS	Glance-and-Gaze Vision Transformer  [[paper]](https://arxiv.org/pdf/2106.02277),  [[code]](https://github.com/yucornetto/GG-Transformer),  [[project]](https://paperswithcode.com/paper/glance-and-gaze-vision-transformer)
+* 2020	NeurIPS 	Self-supervised learning through the eyes of a child.	[[paper]](https://papers.nips.cc/paper/2020/file/7183145a2a3e0ce2b68cd3735186b1d5-Paper.pdf),	[[code]](https://github.com/eminorhan/baby-vision),	[[project]](https://paperswithcode.com/paper/self-supervised-learning-through-the-eyes-of)
+* 2020	ECCV	ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation. [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500358.pdf)  
+* 2020	ECCV	Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System. 	[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640035.pdf), [[project]](https://paperswithcode.com/paper/deep-learning-based-pupil-center-detection)
+* 2022	NeurIPS 	Contrastive Representation Learning for Gaze Estimation	[[paper]](https://arxiv.org/abs/2210.13404),	[[code]](https://github.com/jswati31/gazeclr)
+  	
+* 2020	ACCV	Domain Adaptation Gaze Estimation by Embedding with Prediction Consistency  [[paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Guo_Domain_Adaptation_Gaze_Estimation_by_Embedding_with_Prediction_Consistency_ACCV_2020_paper.pdf)
+* 2020	WACV	Gaze Estimation for Assisted Living Environments  [[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Dias_Gaze_Estimation_for_Assisted_Living_Environments_WACV_2020_paper.pdf),	[[code]](https://bitbucket.org/phil_dias/gaze-estimation/src/master/),	[[project]](https://github.com/tkuri/papers/issues/301)
+* 2020	WACV	Learning to Detect Head Movement in Unconstrained Remote Gaze Estimation in the Wild	[[paper]](https://openaccess.thecvf.com/content_WACV_2020/papers/Wang_Learning_to_Detect_Head_Movement_in_Unconstrained_Remote_Gaze_Estimation_WACV_2020_paper.pdf)	
+* 2020	BMVC	Learning-based Region Selection for End-to-End Gaze Estimation	[[paper]](https://www.bmvc2020-conference.com/assets/papers/0086.pdf)			
+* 2021	MDPI	Low Cost Gaze Estimation: Knowledge-Based Solutions.	[[paper]](https://www.mdpi.com/1424-8220/21/15/5109)			
+* 2019	ICCV	FAZE:Few-Shot Adaptive Gaze Estimation	[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Few-Shot_Adaptive_Gaze_Estimation_ICCV_2019_paper.pdf),	[[code]](https://github.com/NVlabs/few_shot_gaze)		
+* 2020	IEEE TIP	Gaze Estimation by Exploring Two-Eye Asymmetry							
+* 2023	ICCV	DVGaze: Dual-View Gaze Estimation  [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_DVGaze_Dual-View_Gaze_Estimation_ICCV_2023_paper.pdf),	[[code]](https://github.com/yihuacheng/DVGaze)		
+* 2019	CVPR	Mixed Effects Neural Networks (MeNets) with Applications to Gaze Estimation	[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiong_Mixed_Effects_Neural_Networks_MeNets_With_Applications_to_Gaze_Estimation_CVPR_2019_paper.pdf),	[[code]](https://github.com/vsingh-group/MeNets)
+* 2017	ACM	InvisibleEye: Mobile Eye Tracking Using Multiple Low-Resolution Cameras and Learning-Based Gaze Estimation  [[paper]](https://dl.acm.org/doi/10.1145/3130971)		
+* 2016		A low-cost and calibration-free gaze estimator for soft biometrics: An explorative study [[paper]](https://www.semanticscholar.org/paper/A-low-cost-and-calibration-free-gaze-estimator-for-Cazzato-Evangelista/557a87d7d0f3a359dd4ced40dae9785db501fa56)
+* 2024		Model-Based 3D Gaze Estimation Using a TOF Camera [[paper]](https://www.mdpi.com/1424-8220/24/4/1070)			
+* 2019	AAAI	RGBD Based Gaze Estimation via Multi-task CNN	[[paper]](https://svip-lab.github.io/paper/aaai2019_liandz1.pdf),  [[code]](https://github.com/svip-lab/RGBD-Gaze)		
+* 2018	TNNLS	Multi-view Multi-task Gaze Estimation with Deep Convolutional Neural Networks	[[paper]](https://ieeexplore.ieee.org/document/8454246),	[[code]](https://github.com/dongzelian/multi-view-gaze)		
+* 2016		Fast and Accurate Algorithm for Eye Localization for Gaze Tracking in Low Resolution Images	[[paper]](https://arxiv.org/abs/1605.05272),	[[project]](https://paperswithcode.com/paper/fast-and-accurate-algorithm-for-eye)
+* 2017	IEEE TIP	Appearance-Based Gaze Estimation via Uncalibrated Gaze Pattern Recovery	[[paper]](https://www.researchgate.net/publication/312926555_Appearance-Based_Gaze_Estimation_via_Uncalibrated_Gaze_Pattern_Recovery)			
+* 2022	ACCV	‘Labelling the Gaps’: A Weakly Supervised Automatic Eye Gaze Estimation	 [[paper]](https://arxiv.org/abs/2208.01840), [[code]](https://github.com/i-am-shreya/Labelling-the-Gaps), [[paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Ghosh_Labelling_the_Gaps_A_Weakly_Supervised_Automatic_Eye_Gaze_Estimation_ACCV_2022_paper.pdf)	
+* 2021	CVPRW	Appearance-based Gaze Estimation using Attention and Difference Mechanism  [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/GAZE/papers/D_Appearance-Based_Gaze_Estimation_Using_Attention_and_Difference_Mechanism_CVPRW_2021_paper.pdf)			
 
 
 
@@ -187,4 +175,25 @@ Keep updating!!!
 # Other codes
 * https://github.com/antoinelame/GazeTracking
 * https://github.com/iitmcvg/eye-gaze
+* 2021	pl_gaze_estimation
+        https://github.com/hysts/pl_gaze_estimation
+  
+	https://github.com/hysts/pytorch_mpiigaze
 
+	https://github.com/hysts/pytorch_mpiigaze_demo
+* 2023	detect what product a shopper looks at in a retail store using single-view RGB images from a CCTV 	https://github.com/Varun-Tandon14/Gazed-at-object-prediction-in-retail-environment
+* 2022	Pupil: Open source eye tracking platform	https://github.com/pupil-labs/pupil
+* 2023	Awesome Work on Gaze Estimation	https://github.com/cvlab-uob/Awesome-Gaze-Estimation
+* 2020	Gaze Estimation with Deep Learning	https://github.com/david-wb/gaze-estimation
+* 2019	Awesome Work on Gaze Estimation	https://github.com/jinsz/awesome-gaze-estimation
+* 2024	various gaze estimation techniques	https://github.com/i-am-shreya/Eye-Gaze-Survey?tab=readme-ov-file#Eye-Gaze-Estimation
+* 2018	Gaze Estimation using Deep Learning, a Tensorflow-based framework.	https://github.com/swook/GazeML
+* 2022	GazeEstimation-Summary	https://github.com/yihuacheng/GazeEstimation-Summary
+* 2019	eye localization and gaze tracking system for a single low cost camera	https://github.com/ricber/Gaze-Tracker
+* 2019	A webcam based pupil tracking implementation	https://github.com/trishume/eyeLike
+* 2022	Gaze Tracking	https://github.com/antoinelame/GazeTracking
+  
+	Eye Tracking library 	https://github.com/antoinelame/GazeTracking
+
+	Repository for Eye Gaze Detection and Tracking	https://github.com/iitmcvg/eye-gaze
+		
