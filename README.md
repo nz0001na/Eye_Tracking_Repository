@@ -169,7 +169,22 @@ Keep updating!!!
 * 2021	CVPRW	Appearance-based Gaze Estimation using Attention and Difference Mechanism  [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/GAZE/papers/D_Appearance-Based_Gaze_Estimation_Using_Attention_and_Difference_Mechanism_CVPRW_2021_paper.pdf)			
 
 
-
+* 2024	GAZE	Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation	 [[paper]]()	[[code]]()	arXiv		supp	
+* 2024	GAZE	Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following	[[paper]]()				supp	
+* 2024	GAZE    Gaze Scanpath Transformer: Predicting Visual Search Target by Spatiotemporal Semantic Modeling of Gaze Scanpath	[[paper]]()					
+* 2024	GAZE    GESCAM: A Dataset and Method on Gaze Estimation for Classroom Attention Measurement				[[paper]]()			[[project]]()		
+* 2023	GAZE	Where are they looking in the 3D space?				[[paper]]()				supp	
+* 2023	GAZE	Kappa Angle Regression with Ocular Counter-Rolling Awareness for Gaze Estimation		[[paper]]()				supp	
+* 2023	GAZE	EFE: End-to-end Frame-to-Gaze Estimation		[[paper]]()				arXiv	
+* 2023	GAZE	GazeCaps: Gaze Estimation with Self-Attention-Routed Capsules				[[paper]]()				supp	
+* 2022	GAZE	Learning-by-Novel-View-Synthesis for Full-Face Appearance-Based 3D Gaze Estimation				[[paper]]()		video		supp	arXiv
+* 2022	GAZE	Self-Attention with Convolution and Deconvolution for Efficient Eye Gaze Estimation from a Full Face Image	[[paper]]()		video			
+* 2022	GAZE	Unsupervised Multi-View Gaze Representation Learning			[[paper]]()		video			
+* 2022	GAZE	ScanpathNet: A Recurrent Mixture Density Network for Scanpath Prediction	[[paper]]()		video		supp	
+* 2022	GAZE	One-Stage Object Referring with Gaze Estimation				[[paper]]()		video			
+* 2022	GAZE	Characterizing Target-absent Human Attention				[[paper]]()		video		supp	
+* 2022	GAZE	A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings				[[paper]]()		video			
+											
 
 
 # Other codes
