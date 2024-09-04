@@ -169,7 +169,7 @@ Keep updating!!!
 * 2021	CVPRW	Appearance-based Gaze Estimation using Attention and Difference Mechanism  [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/GAZE/papers/D_Appearance-Based_Gaze_Estimation_Using_Attention_and_Difference_Mechanism_CVPRW_2021_paper.pdf)			
 
 
-* 2024	GAZE	Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation	 [[paper]]()	[[code]]()	arXiv		supp	
+* 2024	GAZE	Spatio-Temporal Attention and Gaussian Processes for Personalized Video Gaze Estimation	 [[paper]](https:/openaccess.thecvf.com/content/CVPR2024W/GAZE/papers/Jindal_Spatio-Temporal_Attention_and_Gaussian_Processes_for_Personalized_Video_Gaze_Estimation_CVPRW_2024_paper.pdf)	[[code]](https://github.com/jswati31/stage)	[[arXiv]](https://arxiv.org/abs/2404.05215)		[[supp]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/openaccess.thecvf.com/content/CVPR2024W/GAZE/supplemental/Jindal_Spatio-Temporal_Attention_and_CVPRW_2024_supplemental.pdf)	
 * 2024	GAZE	Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following	[[paper]]()				supp	
 * 2024	GAZE    Gaze Scanpath Transformer: Predicting Visual Search Target by Spatiotemporal Semantic Modeling of Gaze Scanpath	[[paper]]()					
 * 2024	GAZE    GESCAM: A Dataset and Method on Gaze Estimation for Classroom Attention Measurement				[[paper]]()			[[project]]()		
