@@ -3,8 +3,6 @@ This repository collects methods and databases in the field of eye tracking.
 
 Keep updating!!!
 
-[[report]](https://github.com/nz0001na/Eye_Tracking_Repository/blob/main/literature_review.pdf)
-
 # Survey
 * 2018	Eye Tracking Measures in Aviation A Selective Literature Review [[paper]](https://www.tandfonline.com/doi/full/10.1080/24721840.2018.1514978)
 * 2021	Application of Eye Tracking Technology in Aviation, Maritime, and Construction Industries_A Systematic Review [[paper]](https://www.mdpi.com/1424-8220/21/13/4289)
@@ -214,3 +212,5 @@ Keep updating!!!
 
 	Repository for Eye Gaze Detection and Tracking	https://github.com/iitmcvg/eye-gaze
 		
+
+[[report]](https://github.com/nz0001na/Eye_Tracking_Repository/blob/main/literature_review.pdf)
