@@ -184,7 +184,12 @@ Keep updating!!!
 * 2022	GAZE	One-Stage Object Referring with Gaze Estimation				[[paper]](https:/openaccess.thecvf.com/content/CVPR2022W/GAZE/papers/Chen_One-Stage_Object_Referring_With_Gaze_Estimation_CVPRW_2022_paper.pdf)		[[video]](https://www.youtube.com/watch?v=SkjtCXX-aJY)			
 * 2022	GAZE	Characterizing Target-absent Human Attention				[[paper]](https:/openaccess.thecvf.com/content/CVPR2022W/GAZE/papers/Chen_Characterizing_Target-Absent_Human_Attention_CVPRW_2022_paper.pdf)		[[video]](https://www.youtube.com/watch?v=SIVywYz2pNs)		[[supp]](https:/openaccess.thecvf.com/content/CVPR2022W/GAZE/supplemental/Chen_Characterizing_Target-Absent_Human_CVPRW_2022_supplemental.pdf)	
 * 2022	GAZE	A Modular Multimodal Architecture for Gaze Target Prediction: Application to Privacy-Sensitive Settings				[[paper]](https:/openaccess.thecvf.com/content/CVPR2022W/GAZE/papers/Gupta_A_Modular_Multimodal_Architecture_for_Gaze_Target_Prediction_Application_to_CVPRW_2022_paper.pdf)		[[video]](https://www.youtube.com/watch?v=z-XSwLOpNzw)			
-											
+
+* 2024	CVIU	Joint pyramidal perceptual attention and hierarchical consistency constraint for gaze estimation										
+* 2023	IEEE SPL	MCGaze:End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context	[[paper]](https://arxiv.org/abs/2310.18131)	[[code]](https://github.com/zgchen33/MCGaze)				
+
+
+    
 
 
 # Other codes
