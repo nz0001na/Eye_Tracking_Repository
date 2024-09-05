@@ -217,5 +217,7 @@ Keep updating!!!
 
 	Repository for Eye Gaze Detection and Tracking	https://github.com/iitmcvg/eye-gaze
 		
+* 2020	A deep learning based gaze estimation framework implemented with PyTorch	https://github.com/david-wb/gaze-estimation
 
+  
 [[report]](https://github.com/nz0001na/Eye_Tracking_Repository/blob/main/literature_review.pdf)
